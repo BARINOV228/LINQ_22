@@ -1,4 +1,8 @@
-﻿// 1 ---------------
+﻿using LINQ_exercises;
+
+Exercises_2.Run();
+
+// 1 ---------------
 
 //int[] numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
